@@ -17,7 +17,7 @@ body{
   align-items: center;
   width: 1000px;
   margin: 0 auto;
-  border: 2px solid blue;
+  /* border: 2px solid blue; */
   min-height: 652px;
   margin-top: 131px;
   background-image: url(../images/Hero-bg.png);
@@ -37,7 +37,7 @@ body{
 .banner-content p, h1{
   color: black;
   font-size: 40px;
-  font-weight: 800;
+  font-weight: 600;
 }
 .btn-primary{
   
@@ -48,3 +48,84 @@ body{
   margin: 50px;
 
 }
+.section-title{
+  font-size: 32px;
+  color: #0D1321;
+}
+.section-description{
+  font-size: 32px;
+  color: #0D1321;
+}
+.secondary-bg{
+
+}
+
+/* Development section starts here */
+.web-section-container{
+  width: 946px;
+  height: 1233px;
+  margin: 0 auto;
+  border: 2px solid red;
+  margin-top: 120px;
+  
+}
+.second-section-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.second-section-content h1{
+  font-weight: 800;
+  font-size: 32px;
+  color: #0D1321;
+  
+
+}
+.second-section-content p{
+  color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+padding: ;
+}
+.Development-selection{
+  display: flexbox;
+  max-width: 600px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 48px;
+}
+.box h4{
+ font-weight: 700;
+font-size: 24px;
+
+}
+.images-2{
+  width: 259.56px;
+height: 217.01px;
+  margin-left: auto;
+}
+.styles-1{
+  display: flex;
+  font-size: 24px;
+font-weight: 700;
+}
+.box-p{
+  font-size: 16px;
+font-weight: 400;
+}
+.nav{
+  background-color: white;
+  padding: 10px;
+  font-weight: 400;
+  color: black;
+  margin: 50px;
+}
+.images{
+  width: 33.56px;
+height: 29.31px;
+margin-right: auto;
+}
+  
+  
